@@ -1,5 +1,5 @@
 # Public-Transport-System
-  This project can extract information about stations and lines of public transport system, given database in certain format. The text in Serbian language is given in OOP_PROJ_2023_24.pdf. This was the project given on course of object oriented programming, at Faculty of electrical engineering in Belgrade.
+  This project can extract information about stations and lines of public transport system, given database in certain format. The text in Serbian language is given in OOP_PROJ_2023_24.pdf. This was the project given as a part of course on "Object oriented programming", at Faculty of Electrical Engineering in Belgrade.
   
   Firstly, two options are given. One of them is to end the execution of a program (0) and the other is to load files (.txt format) that contain information about stations and lines (1). Option (0) is always available. There are default files which are loaded in case someone doesn't write from which file he wants to load his data.
   
